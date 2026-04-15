@@ -12,5 +12,7 @@ Windows 11 25H2
 Os caminhos para acessar a planilha pelo Dynamo devem ser modificados nas rotinas para que funcionem corretamente:
 
 1 - Extração de quantitativos: Escolher o caminho do arquivo Excel EAP.xlsx no nó File.Path
+
 2 - Estimativa de duração: Preencher no nó String ligado a File From Path o caminho completo do arquivo Excel EAP.xlsx
+
 3 - Montagem do cronograma: Preencher igual ao item acima.
