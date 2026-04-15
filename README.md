@@ -2,6 +2,7 @@
 Repositório dos arquivos utilizados para o trabalho de conclusão da especialização em BIM da UFPE em 2026.1.
 
 Para utilização, verificar se os softwares são compatíveis com as versões utilizadas durante o projeto:
+
 Revit 2025.4 PT-BR
 
 Dynamo v3.3.0
