@@ -1,5 +1,5 @@
 # TCC-Especializacao-BIM-UFPE
-Repositório dos arquivos utilizados para o trabalho de conclusão da especialização em BIM da UFPE em 2026.1.
+Repositório dos arquivos utilizados para o trabalho de conclusão da Especialização em BIM da UFPE em 2026.1.
 
 Para utilização, verificar se os softwares são compatíveis com as versões utilizadas durante o projeto:
 
