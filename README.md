@@ -3,8 +3,11 @@ Repositório dos arquivos utilizados para o trabalho de conclusão da especializ
 
 Para utilização, verificar se os softwares são compatíveis com as versões utilizadas durante o projeto:
 Revit 2025.4 PT-BR
+
 Dynamo v3.3.0
+
 Python 3.13.3 utilizado com mecanismo PythonNet3 no Dynamo
+
 Windows 11 25H2
 
 
