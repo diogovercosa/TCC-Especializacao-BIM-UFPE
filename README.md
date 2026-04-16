@@ -14,7 +14,7 @@ Windows 11 25H2
 
 *** IMPORTANTE ***
 
-Para replicar os testes abrir o modelo estrutural, em seguida o Dynamo e rodar consecutivamente as rotinas numeradas, com as modificações explicadas a seguir.
+Para replicar os testes: abrir o modelo estrutural, em seguida o Dynamo e rodar consecutivamente as rotinas numeradas, com as modificações explicadas a seguir.
 
 Os caminhos para acessar a planilha pelo Dynamo devem ser modificados nas rotinas para que funcionem corretamente:
 
